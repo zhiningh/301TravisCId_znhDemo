@@ -82,6 +82,6 @@ public class CityList {
      * Clear a city list
      */
     public void clear() {
-
+        cities.clear();
     }
 }
